@@ -22,6 +22,6 @@ a way to sync my sublime text settings between computers.
 |cmd+D|Multiple Cursor|
 |cmd+^G|All|
 |cmd+U|Undo Multiple|
-|cmd+shift+P TODO|
-|cmd+shift+P CSScomb|
-|alt+cmd+N New File # Vim Mode|
+|cmd+shift+P|TODO|
+|cmd+shift+P|CSScomb|
+|alt+cmd+N|New File # Vim Mode|
