@@ -17,16 +17,17 @@ a way to sync my sublime text settings between computers.
 |cmd+control+↑|Move Section Up|
 |cmd+control+↓|Move Down|
 
-|Screens||
+|multi-screens||
 |---|---|
-|cmd+alt+↑|One|
-|cmd+alt+↓|Two|
-|cmd+alt+→|Two, Large-Small|
-|cmd+alt+←|Two, Small-Large|
-|control+1,2|Focus|
-|alt+1,2|Move File to|
+|cmd+alt+1|One screens|
+|cmd+alt+2|Two screens|
+|cmd+alt+3|Three screens|
+<!-- |cmd+alt+→|Two, Large-Small|
+|cmd+alt+←|Two, Small-Large| -->
+|control+1,2|Switch Focus|
+<!-- |alt+1,2|Move File to| -->
 
-|Multiple Cursor||
+|Multi-cursors||
 |---|---|
 |cmd+D|Multiple Cursor|
 |cmd+^G|All|
