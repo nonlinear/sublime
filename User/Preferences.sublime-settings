@@ -29,6 +29,8 @@
 	"font_size": 15.0,
 	"ignored_packages":
 	[
+		"Emmet",
+		"Monokai - Spacegray",
 		"Vintage"
 	],
 	"tab_size": 4,

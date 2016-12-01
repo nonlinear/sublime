@@ -1,7 +1,13 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control"
+		"Emmet",
+		"Package Control",
+		"Sass",
+		"SassBeautify"
 	]
 }
