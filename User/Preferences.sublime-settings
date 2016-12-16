@@ -9,6 +9,10 @@
 	"folder_exclude_patterns":
 	[
 		".svn",
+		"node_modules",
+		"bower_components",
+		".csv",
+		".json",
 		".git",
 		".hg",
 		".css",
