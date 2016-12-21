@@ -6,12 +6,17 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Color Highlighter",
 		"Emmet",
+		"GitGutter",
+		"HTML5",
 		"LESS",
 		"Package Control",
 		"Sass",
 		"SassBeautify",
+		"StyleToken",
 		"Sublimerge 3",
+		"SwapStrings",
 		"Terminal"
 	]
 }
