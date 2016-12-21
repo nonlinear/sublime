@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Emmet",
 		"LESS",
 		"Package Control",
 		"Sass",
 		"SassBeautify",
-		"Sublimerge 3"
+		"Sublimerge 3",
+		"Terminal"
 	]
 }
