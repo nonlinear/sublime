@@ -2,13 +2,27 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Alignment",
+		"Color Highlighter",
+		"GitGutter",
+		"HTML5",
+		"StyleToken",
+		"SwapStrings"
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"Color Highlighter",
 		"Emmet",
+		"GitGutter",
+		"HTML5",
 		"LESS",
 		"Package Control",
 		"Sass",
-		"SassBeautify"
+		"SassBeautify",
+		"StyleToken",
+		"Sublimerge 3",
+		"SwapStrings",
+		"Terminal"
 	]
 }

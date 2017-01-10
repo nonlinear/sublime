@@ -29,9 +29,10 @@ a way to sync my sublime text settings between computers.
 
 |Multi-cursors||
 |---|---|
-|cmd+D|Multiple Cursor|
-|cmd+^G|All|
-|cmd+U|Undo Multiple|
+|Multiple Cursor|cmd+D|
+|All|cmd+^G|
+|Undo Multiple|cmd+U|
 <!-- |cmd+shift+P|TODO|
 |cmd+shift+P|CSScomb| -->
-|alt+cmd+N|New File|
+|New File|alt+cmd+N|
+|Align|cmd+control+A|

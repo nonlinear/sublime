@@ -4,6 +4,7 @@
 		"*.css",
 		"*.log, *.min.js"
 	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -33,7 +34,13 @@
 	"font_size": 15.0,
 	"ignored_packages":
 	[
+		"Alignment",
+		"Color Highlighter",
+		"GitGutter",
+		"HTML5",
 		"Monokai - Spacegray",
+		"StyleToken",
+		"SwapStrings",
 		"Vintage"
 	],
 	"tab_size": 4,
