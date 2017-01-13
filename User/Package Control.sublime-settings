@@ -2,12 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Alignment",
-		"Color Highlighter",
-		"GitGutter",
-		"HTML5",
-		"StyleToken",
-		"SwapStrings"
 	],
 	"installed_packages":
 	[
