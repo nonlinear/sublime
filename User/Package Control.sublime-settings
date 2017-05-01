@@ -2,6 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Alignment",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"LESS",
+		"Sass",
+		"StyleToken",
+		"SwapStrings"
 	],
 	"installed_packages":
 	[
