@@ -35,7 +35,15 @@
 	"font_size": 15.0,
 	"ignored_packages":
 	[
+		"Alignment",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"LESS",
 		"Monokai - Spacegray",
+		"Sass",
+		"StyleToken",
+		"SwapStrings",
 		"Vintage"
 	],
 	"remember_open_files": false,
